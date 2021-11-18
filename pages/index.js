@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to ChimekiBhai!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get Help From Pros
         </p>
       </main>
 
