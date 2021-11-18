@@ -14,6 +14,8 @@ export default function Home() {
         <Header title="Welcome to ChimekiBhai!" />
         <p className="description">
           Get Help From Pros
+    
+          BY REBIKA RAI
         </p>
       </main>
 
