@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -15,7 +16,12 @@ export default function Home() {
         <p className="description">
           Get Help From Pros
          
-          
+        <h1 className="title">
+  Read{' '}
+  <Link href="/posts/first-post">
+    <a>this page!</a>
+  </Link>
+</h1>  
         </p>
       </main>
 
