@@ -15,9 +15,7 @@ export default function Home() {
         <p className="description">
           Get Help From Pros
          
-          BY REBIKA RAI
-         
-          I LOVE YOU
+          
         </p>
       </main>
 
